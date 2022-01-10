@@ -41,14 +41,14 @@ I'm Léa, a junior **fullstack web developer** based in Paris, France. I just gr
 ## 📈 GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leabaty&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=b99488)](https://github.com/leabaty/github-readme-stats) ![Léa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leabaty&show_icons=true&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=b99488&line_height=27px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leabaty&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=1F6566)](https://github.com/leabaty/github-readme-stats) ![Léa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leabaty&show_icons=true&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=1F6566&line_height=27px)
 
 ## ⭐ My favorite projects
 
 
 These are my favorite projects at the moment. More coming soon ! 🚀
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leabaty&repo=guesthouse-website&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=b99488)](https://github.com/leabaty/guesthouse-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leabaty&repo=guesthouse-website&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=1F6566)](https://github.com/leabaty/guesthouse-website)
 
 <br>
 
