@@ -10,7 +10,7 @@ I'm Léa, a junior **fullstack web developer** based in Paris, France. I just gr
 
 <br>
 
-![](Images/splitter.png)
+![](Images/splitter1.png)
 
 
 ## 🙌 I love to play with... 
@@ -34,7 +34,7 @@ I'm Léa, a junior **fullstack web developer** based in Paris, France. I just gr
 | Webpack 	|  AWS	|  	GraphQL|
 
 
-![](Images/splitter.png)
+![](Images/splitter2.png)
 
 <br>
 
@@ -52,7 +52,7 @@ These are my favorite projects at the moment. More coming soon ! 🚀
 
 <br>
 
-![](Images/splitter.png)
+![](Images/splitter3.png)
 
 <br>
 
