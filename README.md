@@ -20,7 +20,7 @@ I'm Léa, a junior **fullstack web developer** based in Paris, France. I just gr
 
 <img src="Images/icons/html5-col.svg" width="30" height="30" style="color:#E34F26;" alt="html5-logo"/>  |  <img src="Images/icons/css3-col.svg" width="30" height="30" style="color:#1572B6;;" alt="css3-logo"/> | <img src="Images/icons/javascript-col.svg" width="30" height="30" style="color:#F7DF1E;" alt="javascript-logo"/> | <img src="Images/icons/react-col.svg" width="30" height="30" style="color:#61DAFB;" alt="react-logo"/>  | <img src="Images/icons/redux.png" width="30" height="30" style="color:#764ABC" alt="redux-logo"/> | <img src="Images/icons/sass-col.svg" width="30" height="30" style="color:#CC6699;" alt="sass-logo"/>  | <img src="Images/icons/nodedotjs-col.svg" width="30" height="30" style="color:#339933;" alt="nodedotjs-logo"/>  | <img src="Images/icons/postgresql-col.svg" width="30" height="30" style="color:#4169E1;" alt="postgresql-logo"/>  | <img src="Images/icons/git-col.svg" width="30" height="30" style="color:#F05032;" alt="git-logo"/>  | <img src="Images/icons/figma-col.svg" width="30" height="30" style="color:#F24E1E;" alt="figma-logo"/>  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| HTML5   |  CSS3 | Javascript ES6  | React.js  |  Redux.js | Sass  | Node.js  | PostgreSQL  | Git  | Figma  |
+| HTML5   |  CSS3 | Javascript ES6  | React.js  |  Redux.js | Scss  | Node.js  | PostgreSQL  | Git  | Figma  |
 
 <br>
 
