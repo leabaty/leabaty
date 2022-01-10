@@ -2,7 +2,7 @@
 
 ![profile banner](Images/readme_banner.png)
 
-# Hello there ! <img src="./images/icons/wave.gif" width="40" height="40"/>
+# Hello there ! <img src="Images/icons/wave.gif" width="40" height="40"/>
 
 I'm Léa, a **fullstack web developer** based in Paris, France. I just graduated from O'Clock 🥇, a full online school that helped me cover the basics of web development . I am now **consolidating my learning** with the development of several projects that you will find on this profile !
 
