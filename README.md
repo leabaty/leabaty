@@ -4,7 +4,7 @@
 
 # Hello there ! <img src="Images/icons/wave.gif" width="40" height="40"/>
 
-I'm Léa, a **fullstack web developer** based in Paris, France. I just graduated from O'Clock 🥇, a full online school that helped me cover the basics of web development . I am now **consolidating my learning** with the development of several projects that you will find on this profile !
+I'm Léa, a junior **fullstack web developer** based in Paris, France. I just graduated from O'Clock 🥇, a full online school that helped me cover the basics of web development . I am now **consolidating my learning** with the development of several projects that you will find on this profile !
 
 💬 Don't hesitate to reach out to me, I would be happy to exchange : You can also find me on  <a href="https://www.linkedin.com/in/l%C3%A9a-baty-2a542375/" target="_blank" rel="noreferrer"> <img src="Images/icons/linkedin-col.svg" width="25" height="18" style="color:#0A66C2" alt="linkedin-logo"/> </a>
 
