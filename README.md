@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./styles.css" />
 
-![profile banner](https://github.com/leabaty/leabaty/blob/f975c8d1abc8fed06a7a168240dabfd5e295a227/Images/readme_banner.png)
+![profile banner](Images/readme_banner.png)
 
 # Hello there ! <img src="./images/icons/wave.gif" width="40" height="40"/>
 
