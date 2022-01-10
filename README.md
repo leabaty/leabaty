@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="./styles.css" />
 
-![profile banner](Images/readme_banner.png)
+![profile banner](Images/readme_banner_rco.png)
 
 # Hello there ! <img src="Images/icons/wave.gif" width="40" height="40"/>
 
@@ -56,4 +56,4 @@ These are my favorite projects at the moment. More coming soon ! 🚀
 
 <br>
 
-![](Images/footer.png)
+![](Images/footer_rc.png)
