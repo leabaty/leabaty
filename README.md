@@ -40,13 +40,11 @@ I'm Léa, a **fullstack web developer** based in Paris, France. I just graduated
 
 ## 📈 GitHub Stats
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leabaty&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=b99488)](https://github.com/leabaty/github-readme-stats) ![Léa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leabaty&show_icons=true&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=b99488&line_height=27px)
 
 ## ⭐ My favorite projects
 
----
 
 These are my favorite projects at the moment. More coming soon ! 🚀
 
