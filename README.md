@@ -47,6 +47,8 @@ I'm Léa, a **fullstack web developer** based in the south of France. I'm always
 
 
 These are my favorite projects at the moment. More coming soon ! 🚀
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leabaty&repo=larga2&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=1F6566)](https://github.com/leabaty/wedding-website)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leabaty&repo=wedding-website&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=1F6566)](https://github.com/leabaty/wedding-website)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leabaty&repo=yoga-website&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=1F6566)](https://github.com/leabaty/yoga-website)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leabaty&repo=devolution-o-clock&title_color=763839&text_color=bc7832&icon_color=b99488&bg_color=f2e8db&border_color=1F6566)](https://github.com/leabaty/devolution-o-clock)
 
 <br>
